@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  cpp-xeus-cling:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: docker-compiler-explorer:latest
+    container_name: cpp-xeux-cling
+    entrypoint: entrypoint.sh
+    ports:
+      - 8888:8888
+    restart: on-failure
