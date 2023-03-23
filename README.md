@@ -1,6 +1,6 @@
 # Jupyter-Xeus-Cling
 
-[![Docker Image CI](https://github.com/StephanKa/Jupyter-Xeus-Cling/actions/workflows/docker_image.yml/badge.svg)](https://github.com/StephanKa/Jupyter-Xeus-Cling/actions/workflows/docker_image.yml)
+[![Docker Image CI](https://github.com/StephanKa/Jupyter-Xeus-Cling/actions/workflows/docker_image.yml/badge.svg?branch=main)](https://github.com/StephanKa/Jupyter-Xeus-Cling/actions/workflows/docker_image.yml)
 
 This repository demonstrates the building of Jupyter including C++ kernel.[docker_image.yml](..%2Fgcc-arm-embedded-docker%2F.github%2Fworkflows%2Fdocker_image.yml)
 
